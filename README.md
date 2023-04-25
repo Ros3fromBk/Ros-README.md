@@ -1,4 +1,4 @@
-<h1 align="center">Peace 👋, I'm Rose</h1>
+<h1 align="center">Peace✌🏾 ,I'm Rose</h1>
 <h3 align="center">i'm an Artist & Entertainer Optimistic leader & Apprentice Software engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ros3frombk&label=Profile%20views&color=0e75b6&style=flat" alt="ros3frombk" /> </p>
